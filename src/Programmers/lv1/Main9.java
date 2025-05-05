@@ -1,4 +1,5 @@
 package Programmers.lv1;
+
 // 정수 제곱근 판별
 public class Main9 {
     public long solution(long n) {
